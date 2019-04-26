@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/juhye96/juhye96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi my name is juhye mun
+who are you?^_^
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
