@@ -15,4 +15,4 @@
 예방법과 함께 배출에 좋은 음식을 섭취한다면 도움이 됩니다. 미역, 시금치와 같은 해조류 및 녹확색 채소는 몸속에 축적된 유해물질 배출에 도움을 줍니다. 특히 [배](https://smartstore.naver.com/berrykind/products/472887453?NaPm=ct%3Djvhny7y0%7Cci%3D0zK000234rjqQ0CMjeZZ%7Ctr%3Dpla%7Chk%3D6537c9ee355cc59a8a179afa59ca98c64779cd96) 는 기관지에 좋기 때문에 챙겨먹으면 좋습니다.
 
 
-[[next: +미세먼지를 해결하기 위한 다양한  →]](c.md)
+[[next: +미세먼지를 해결하기 위한 다양한  →]](e.md)
