@@ -1,6 +1,6 @@
-[← go back to the main page](https://HandongHCI.github.io/)
+[← go back to the main page](https://juhye96.github.io/)
 
-## Courses
+## Dust
 - Human Factors and Ergonomics
 	- [1. Introduction to HF/E](HFE01.md)
 	- [2-1. Physical Ergonomics I](HFE02_1.md): Biomechanics
