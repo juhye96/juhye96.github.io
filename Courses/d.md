@@ -3,20 +3,16 @@
 
 ## DustProject
 
-### 1. 미세먼지는 왜 발생하게 되었을까?
+### 4. 어떻게 하면 미세먼지를 해결할 수 있을까?
 
-#### [1] 발생원인 - 국내원인
+#### [1] 생활습관 예방법
 
-원인은 **공장의 대기오염물, 자동차의 배기가스, 난방 사용, 질산염** 등에 의해 발생하는 _**화학반응_** 과 꽃가루와 같은 **생물성 입자, 소금 입자** 등에 의해 **_자연적으로 발생_** 되는 요인이 있습니다.
-
-#### [2] 발생원인 - 국외원인
-국외원인으로는 **_중국_** 에서 발생한 미세먼지가 국내로 유입되는 경우입니다. 중국으로부터 미세먼지가 유입되는 이유는 **지리적 위치** 때문입니다. 시베리아 고기압에 의해 러시아를 비롯해 중국에서 북서풍이 불어오게 됩니다. 
-
-#### [Video Lectures]
-- 미세먼지, 이래도 중국 탓 아니야?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gkct5RmQw14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-![dust](data:image/jpeg;base64,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)
+머리카락 굵기의 1/10정도인 미세먼지가 몸에 축적 되어 각종 질환을 유발하는 것을 예방하기 위한 몇 가지 예방법이 있습니다. [미세먼지 마스크](https://smartstore.naver.com/etiqa/products/4238550832?NaPm=ct%3Djvhnxj94%7Cci%3Defcb07a3eb6cb8d23bf500bd55862f7c96c72cf2%7Ctr%3Dslc%7Csn%3D875837%7Cic%3D%7Chk%3D649872a38c1b19cef4fe40f51cd1a9aefaeb9690) 를 착용, 물을 자주 마시고, 외출 자제하기, 환기 자제하기, 외출 후 씻기, 코 세척 들이 있습니다. 호흡기가 건조하면 몸속에 유해물질이 침투하기 쉬우니 적정 습도를 유지하는 것이 좋습니다.
 
 
-[[next: 3. 미세먼지의 문제점은 무엇일까? →]](c.md)
+#### [2] 발출에 좋은 음식
+
+예방법과 함께 배출에 좋은 음식을 섭취한다면 도움이 됩니다. 미역, 시금치와 같은 해조류 및 녹확색 채소는 몸속에 축적된 유해물질 배출에 도움을 줍니다. 특히 [배](https://smartstore.naver.com/berrykind/products/472887453?NaPm=ct%3Djvhny7y0%7Cci%3D0zK000234rjqQ0CMjeZZ%7Ctr%3Dpla%7Chk%3D6537c9ee355cc59a8a179afa59ca98c64779cd96) 는 기관지에 좋기 때문에 챙겨먹으면 좋습니다.
+
+
+[[next: +미세먼지를 해결하기 위한 다양한  →]](c.md)
