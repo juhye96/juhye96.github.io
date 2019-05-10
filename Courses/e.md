@@ -3,20 +3,23 @@
 
 ## DustProject
 
-### 1. 미세먼지는 왜 발생하게 되었을까?
+### + 미세먼지를 해결하기 위한 다양한 상품들
+미세먼지 관련 상품들 입니다.
 
-#### [1] 발생원인 - 국내원인
+#### [1] [공기청정기](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2289869572&NaPm=ct=jvho2pzc|ci=32c89a7f25b635e5ce12bee24591eaceed09d66c|tr=slc|sn=17703|hk=a07881a9e9824f87b8879f265dc41729bb601827&utm_term=&utm_campaign=%B3%D7%C0%CC%B9%F6pc_%B0%A1%B0%DD%BA%F1%B1%B3%B1%E2%BA%BB&utm_source=%B3%D7%C0%CC%B9%F6_PC_PCS&utm_medium=%B0%A1%B0%DD%BA%F1%B1%B3)
 
-원인은 **공장의 대기오염물, 자동차의 배기가스, 난방 사용, 질산염** 등에 의해 발생하는 _**화학반응_** 과 꽃가루와 같은 **생물성 입자, 소금 입자** 등에 의해 **_자연적으로 발생_** 되는 요인이 있습니다.
+![공기청정기](https://shopping-phinf.pstatic.net/main_1697726/16977263912.20190110185126.jpg?type=f300)
 
-#### [2] 발생원인 - 국외원인
-국외원인으로는 **_중국_** 에서 발생한 미세먼지가 국내로 유입되는 경우입니다. 중국으로부터 미세먼지가 유입되는 이유는 **지리적 위치** 때문입니다. 시베리아 고기압에 의해 러시아를 비롯해 중국에서 북서풍이 불어오게 됩니다. 
+##### [1-1] [차량용 공기청정기](http://shopping.interpark.com/product/productInfo.do?prdNo=4818706127&dispNo=016001&bizCd=P14394&NaPm=ct%3Djvho7kd4%7Cci%3D9cdbdc2f5e2dab183fee18bc0d9f22e7ddf17b4d%7Ctr%3Dslsl%7Csn%3D3%7Chk%3D79843c0822eb8590e39df38f3f1482b2e2ac7dbc&utm_medium=affiliate&utm_source=naver&utm_campaign=shop_p11714_p14394&utm_content=deal_pc)
 
-#### [Video Lectures]
-- 미세먼지, 이래도 중국 탓 아니야?
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gkct5RmQw14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+![차량용](http://openimage.interpark.com/goods_image_big/6/1/2/7/4818706127_l.jpg)
 
-![dust](data:image/jpeg;base64,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)
+#### [2] [미세먼지 방충망](https://smartstore.naver.com/appletry11/products/2005397087?NaPm=ct%3Djvho3jaw%7Cci%3D2b3c07cdb12992701f594c7b3741f4ef4d80ffe6%7Ctr%3Dsls%7Csn%3D423434%7Chk%3D18de27275d98caff80f5d55fd1ebe259e57090cd)
 
+![방충망](https://shop-phinf.pstatic.net/20170522_289/appletry11_1495422406300oTsfR_JPEG/18729585941679359_-219907069.JPG?type=m510)
 
-[[next: 3. 미세먼지의 문제점은 무엇일까? →]](c.md)
+#### [3] [미세먼지 차단 스프레이](https://smartstore.naver.com/wbhs/products/3836702852?NaPm=ct%3Djvho6mew%7Cci%3Db2a626bf0ea9b0e1a5c6945972926b873d0dacd3%7Ctr%3Dslsl%7Csn%3D372004%7Cic%3D%7Chk%3Dcc93f81dd5d95d16c6a28b27a0f6148dd9b86384)
+
+![스프레이](https://shop-phinf.pstatic.net/20181122_285/ysm6222_1542877419607TwclF_JPEG/66183720227913305_499505724.jpg?type=m450)
+
+[← go back to the Home](https://juhye96.github.io)
