@@ -1,8 +1,9 @@
 ## Welcome to My Pages
 
 Hi my name is juhye mun
-who are you?^_^
-
+이곳은 미세먼지의 대한 정보를 위한 페이지 입니다.
+궁금한 점이 더 있다면 아래 메일 주소로 알려주세요.
+answngp1@naver.com
 
 ### Markdown
 
