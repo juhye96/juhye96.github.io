@@ -16,7 +16,6 @@
 - 미세먼지, 이래도 중국 탓 아니야?
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; margin-bottom: 50px; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gkct5RmQw14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-![dust]
 
 
 [[next: 3. 미세먼지의 문제점은 무엇일까? →]](c.md)
