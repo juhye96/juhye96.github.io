@@ -1,14 +1,13 @@
 ## Welcome to My Pages
 
-Hi my name is juhye mun
-이곳은 미세먼지의 대한 정보를 위한 페이지 입니다.
-궁금한 점이 더 있다면 아래 메일 주소로 알려주세요.
-answngp1@naver.com
+안녕하세요 이곳은 저의 개인 페이지 입니다.:)
 
-### [[DUST]](Courses/README.md)
-미세먼지에 대하여 알고 싶다면 누르세요
 
-### Markdown
+### [[DUSTPROJECT]](Courses/README.md)
+DustProject가 궁금하면 눌러보세요.
+
+### [[PRACTICE](practice.md)
+Practice가 궁금하면 눌러보세요.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
